@@ -24,9 +24,6 @@
     "vue-tsc": "2.1.10"
   },
   "overrides": {
-    "tailwindcss": {
-      "jiti": "2.7.0"
-    },
     "nitropack": "2.10.4",
     "nuxi": "3.15.0"
   }
