@@ -22,9 +22,5 @@
     "typescript": "5.7.3",
     "vite": "^5.4.21",
     "vue-tsc": "2.1.10"
-  },
-  "overrides": {
-    "nitropack": "2.10.4",
-    "nuxi": "3.15.0"
   }
 }
